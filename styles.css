@@ -308,6 +308,11 @@ body {
         line-height: 30px;
     }
 
+    .caminho {
+        height: auto;
+        max-width: 100%;
+    }
+
     .caminho li {
         font-size: 12px;
     }
